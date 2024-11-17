@@ -6,6 +6,8 @@ query_list = ['race bias', 'racial bias','race prejudice', 'racial prejudice','r
               'racial discrimination', 'race disparity', 'racial disparity', 'race inequality', 'racial inequality',
               'race difference', 'racial difference', 'racism']
 
+print("Hello Abby")
+
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
