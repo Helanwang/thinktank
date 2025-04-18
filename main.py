@@ -1,7 +1,7 @@
-# This is a sample Python script.
+from selenium import webdriver
+driver = webdriver.Chrome(executable_path="/Users/abbycopeland/Downloads/chromedriver")
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+
 query_list = ['race bias', 'racial bias','race prejudice', 'racial prejudice','race discrimination',
               'racial discrimination', 'race disparity', 'racial disparity', 'race inequality', 'racial inequality',
               'race difference', 'racial difference', 'racism']
